@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+backend/models/*.pt
+backend/dataset/
+runs/
+.venv/
